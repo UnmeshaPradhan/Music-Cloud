@@ -1,0 +1,9 @@
+<template>
+    <div>
+        <div>HotSinger</div>
+    </div>
+</template>
+<style>
+</style>
+<script>
+</script>
